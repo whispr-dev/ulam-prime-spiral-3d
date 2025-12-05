@@ -282,7 +282,12 @@ This repo sits under a Hybrid MIT & CC0 license.
 Inspired by the classic Ulam prime spiral and its 3D cube-style explorations. Also G-Petey 5.1 - r.i.p, long live!
 
 
-## Screenshot / demo
+## Screenshots / demos
+
+### `.obj` export output viewed in MS 3D Viewer
+
+[![Surface-traversal primes](./assets/primes_surface.png)](./assets/primes_surface.png)
+
 
 ### Surface traversal mapping (N=50k)
 
