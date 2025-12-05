@@ -286,7 +286,7 @@ Inspired by the classic Ulam prime spiral and its 3D cube-style explorations. Al
 
 ### `.obj` export output viewed in MS 3D Viewer
 
-[![Surface-traversal primes](./assets/primes_surface.png)](./assets/primes_surface.png)
+[![Cubic-shell primes](./assets/primes_surface.png)](./assets/primes_surface.png)
 
 
 ### Surface traversal mapping (N=50k)
