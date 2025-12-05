@@ -290,7 +290,7 @@ Inspired by the classic Ulam prime spiral and its 3D cube-style explorations. Al
 
 ## Comparison
 
-<img src="./assets/shell-50k.png" width="48%" alt="Shell mapping">
+<img src="./assets/shell_50k.png" width="48%" alt="Shell mapping">
 
 <img src="./assets/surface_50k.png" width="48%" alt="Surface mapping">
 
